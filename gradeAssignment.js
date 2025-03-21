@@ -1,5 +1,5 @@
 let score = prompt("Enter your score:"); // Prompt user for input
-score = parseInt(score); // Convert input to number
+let score = (score);
 
 let grade;
 
